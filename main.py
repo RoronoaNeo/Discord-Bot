@@ -1,6 +1,5 @@
 import discord
 from discord.ext import commands
-#il faut installer: discord /discord.py /  avec *pip install*
 
 tokenfile = open("token.txt", 'r')
 token = tokenfile.read()
